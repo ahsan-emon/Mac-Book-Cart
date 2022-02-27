@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+a,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+p {
+  margin-bottom: 10px;
+}
+h6 {
+  margin-bottom: 5px;
+}
+.mac-option-btn {
+  border: 1px solid black;
+}
+#apply-btn {
+  color: #fff;
+  background-color: red;
+}
